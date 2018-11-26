@@ -1,1 +1,2 @@
 ionic CLI 4.2.1
+https://ionicacademy.com/font-awesome-ionic-4/
